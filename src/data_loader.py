@@ -6,3 +6,4 @@ def load_data(filepath):
         return df
     except FileNotFoundError:
         print("File not found. Check the path.")
+        return None
