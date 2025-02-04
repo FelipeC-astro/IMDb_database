@@ -24,6 +24,8 @@ imdb-analysis/
 │   ├── data_cleaning.py
 │   ├── analysis.py
 │   └── visualization.py
+├── notebooks/
+│   └── imdb_analysis.ipynb
 ├── main.py              # Main script
 ├── requirements.txt     # Project dependencies
 └── README.md            # Project documentation
